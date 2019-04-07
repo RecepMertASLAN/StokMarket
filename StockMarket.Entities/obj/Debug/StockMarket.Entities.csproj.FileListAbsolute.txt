@@ -1,0 +1,6 @@
+c:\users\rma\documents\visual studio 2017\Projects\StockMarket\StockMarket.Entities\bin\Debug\StockMarket.Entities.dll
+c:\users\rma\documents\visual studio 2017\Projects\StockMarket\StockMarket.Entities\bin\Debug\StockMarket.Entities.pdb
+c:\users\rma\documents\visual studio 2017\Projects\StockMarket\StockMarket.Entities\obj\Debug\StockMarket.Entities.csprojAssemblyReference.cache
+c:\users\rma\documents\visual studio 2017\Projects\StockMarket\StockMarket.Entities\obj\Debug\StockMarket.Entities.csproj.CoreCompileInputs.cache
+c:\users\rma\documents\visual studio 2017\Projects\StockMarket\StockMarket.Entities\obj\Debug\StockMarket.Entities.dll
+c:\users\rma\documents\visual studio 2017\Projects\StockMarket\StockMarket.Entities\obj\Debug\StockMarket.Entities.pdb

@@ -1,0 +1,14 @@
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\StockMarket.DataAccess.dll
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\StockMarket.DataAccess.pdb
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\obj\Debug\StockMarket.DataAccess.csprojAssemblyReference.cache
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\obj\Debug\StockMarket.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\obj\Debug\StockMarket.DataAccess.dll
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\obj\Debug\StockMarket.DataAccess.pdb
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\StockMarket.DataAccess.dll.config
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\StockMarket.Entities.dll
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\StockMarket.Entities.pdb
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RMA\Documents\Visual Studio 2017\Projects\StockMarket\StockMarket.DataAccess\obj\Debug\StockMarket.DataAccess.csproj.CopyComplete
